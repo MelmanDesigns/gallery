@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MelmanDesigns Gallery/Porfolio ",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1379,7 +1379,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/back-1361x766.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1389,6 +1389,40 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "2016 Marked FPIU",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Standalone Vehicle",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/front-934x759.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "2011 Marked CVPI",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Standalone Vehicle",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rear-925x759.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "2011 Marked CVPI",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Standalone Vehicle",
