@@ -26,7 +26,10 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#000000"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -1310,7 +1313,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "(Captain14 FBI Remastered Pack)",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4-954x615.png",
@@ -1510,7 +1515,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "2011 Marked CVPI",
+                "title": "2014 Marked Charger",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Standalone Vehicle",
@@ -1518,7 +1523,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2-1271x704.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1569,7 +1574,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/8-1225x729.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
